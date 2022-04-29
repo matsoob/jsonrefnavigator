@@ -10,6 +10,7 @@
     "type": "git",
     "url": "https://github.com/matsoob/jsonrefnavigator"
   },
+  "publisher": "matsoob",
   "keywords": [
     "vscode",
     "json",
