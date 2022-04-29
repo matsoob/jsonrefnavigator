@@ -3,14 +3,18 @@
   "displayName": "JSON Reference Navigator",
   "license": "MIT",
   "author": {
-	  "name": "matsoob",
-	  "url": "https://github.com/matsoob"
+    "name": "matsoob",
+    "url": "https://github.com/matsoob"
   },
   "repository": {
-	  "url": "https://github.com/matsoob/jsonrefnavigator"
+    "type": "git",
+    "url": "https://github.com/matsoob/jsonrefnavigator"
   },
   "keywords": [
-	  "json", "jsonschema", "jsonreference"
+    "vscode",
+    "json",
+    "jsonschema",
+    "jsonreference"
   ],
   "icon": "assets/tofu_on_fire.png",
   "description": "Lets you navigate JSON references to other files within your VSCode workspace",
