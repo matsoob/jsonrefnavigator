@@ -1,6 +1,6 @@
 {
   "name": "jsonrefnavigator",
-	"displayName": "jsonrefnavigator",
+	"displayName": "JSON Reference Navigator",
 	"description": "Lets you navigate JSON references to other files within your VSCode workspace",
 	"version": "0.0.1",
 	"engines": {
