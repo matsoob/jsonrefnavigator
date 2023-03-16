@@ -13,11 +13,11 @@ I can look to support more types of navigation if this proves useful :-)
 
 The plugin will give you a tooltip to navigate to the target JSON when hovering over a JSON Reference line within a JSON document.
 
-![Before Hover](assets/garden.png)
+![Before Hover](https://github.com/matsoob/jsonrefnavigator/blob/main/assets/garden.png)
 
-![During Hover](assets/hovering.png)
+![During Hover](https://github.com/matsoob/jsonrefnavigator/blob/main/assets/hovering.png)
 
-![Navifated to Hover](assets/navigated.png)
+![Navifated to Hover](https://github.com/matsoob/jsonrefnavigator/blob/main/assets/navigated.png)
 
 ## Requirements
 
